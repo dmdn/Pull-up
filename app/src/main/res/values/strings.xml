@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Турник</string>
+
+    <string name="action_row_add">Добавить упражнение</string>
+    <string name="action_row_del">Удалить упражнение</string>
+    <string name="action_db_add">Сохранить результаты</string>
+    <string name="action_db_del">Удалить все результаты</string>
+
+    <string name="action_oll_results">Показать результат за все время</string>
+    <string name="action_date_results">Показать все дни тренеровок</string>
+    <string name="action_exercise_results">Показать тренеровоки по упражнениям</string>
+    <string name="action_description_exercise">Описание упражнений</string>
+
+    <string name="action_share">Share</string>
+    <string name="ss">Основные виды подтягивания:</string>
+
+    <string name="action_graph">Построить график</string>
+    <string name="n_str">№ строки:</string>
+    <string name="btn_del">Удалить запись</string>
+    <string name="tv1">Результат тренеровки за все время</string>
+    <string name="tv3">Дни тренеровок</string>
+    <string name="textView2">Перечень упражнений</string>
+    <string name="tv1_d">Результат тренеровки</string>
+    <string name="tv1_er">Результат тренеровки по упражнениям</string>
+    <string name="btnExerrcise">Вывести</string>
+    <string name="btnClear">Очистить</string>
+    <string name="btnAdd">Строка</string>
+    <string name="btnDel">Строка</string>
+    <string name="btnDelAll">Все</string>
+    <string name="tv1_m">Данные тренеровки</string>
+
+    <string name="choose_exercises">Выберите одно из упражнений</string>
+    <string name="result_saved">Результат сохранен</string>
+    <string name="fill_line">Заполните строку для ввода!</string>
+    <string name="all_posts_deleted">Все записи удалены</string>
+    <string name="fill_row_to_delete">Заполните строку для удаления!</string>
+    <string name="string_n">Строка №</string>
+    <string name="removed_from_database"> удалена из БД</string>
+    <string name="number_of_times">раз -</string>
+    <string name="number_of_times_2"> раз;</string>
+    <string name="number_of_times_3"> раз</string>
+    <string name="no_saved_entries">Нет сохраненных записей</string>
+    <string name="database_unavailable">База данных недоступна</string>
+    <string name="you_train">Вы тренируетесь</string>
+    <string name="days">(дня)дней</string>
+    <string name="screen_cleared">Экран очищен</string>
+    <string name="pulling">Подтягивание:</string>
+    <string name="number_of_pulling_by_month">Количество подтягиваний по месяцам</string>
+
+
+</resources>

@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="by.dvd.pull_up.MainActivity">
+
+    <item
+        android:id="@+id/action_db_add"
+        android:icon="@drawable/ic_action_db_add"
+        android:orderInCategory="1"
+        android:title="@string/action_db_add"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_oll_results"
+        android:orderInCategory="4"
+        android:title="@string/action_oll_results"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_date_results"
+        android:orderInCategory="5"
+        android:title="@string/action_date_results"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_exercise_results"
+        android:orderInCategory="6"
+        android:title="@string/action_exercise_results"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/action_description_exercise"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="3"
+        android:title="@string/action_description_exercise"
+        android:showAsAction="always" />
+</menu>
