@@ -30,7 +30,8 @@ The appendix also contains a description of all 8 exercises.
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557963/813b6bba-2d25-11e7-8bae-0edde8f5aaba.PNG)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557964/813ddd82-2d25-11e7-9790-5cc3324bfa9e.PNG)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557962/813b6a52-2d25-11e7-9b58-f1bb575456a5.PNG)
-![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557965/813ed3d6-2d25-11e7-81c1-3723956fb1d7.PNG)
+![screenshot 11](https://cloud.githubusercontent.com/assets/19373990/25588159/df879118-2eaf-11e7-8faa-729ad6bd38d8.png)
+![screenshot 12](https://cloud.githubusercontent.com/assets/19373990/25588160/df88da32-2eaf-11e7-9c33-df3693820f5f.png)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557966/81466e20-2d25-11e7-95fb-f5cc26b44683.png)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557967/815398e8-2d25-11e7-96fd-432e31c77f49.png)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557961/813b1e3a-2d25-11e7-93b2-bc7dafab81cf.PNG)
@@ -38,4 +39,4 @@ The appendix also contains a description of all 8 exercises.
 ![ic_launcher](https://cloud.githubusercontent.com/assets/19373990/25557776/04bf84da-2d21-11e7-82fe-7726b683af44.png)
 [Download app in APK](https://drive.google.com/file/d/0B_FuLrEepxSsV3lVeHR0SjdEMW8/view?usp=sharing)
 
-[Screenshots MapPoint APP in PDF]()
+[Screenshots MapPoint APP in PDF](https://drive.google.com/file/d/0B_FuLrEepxSsMUl2VHM1bUtuSlE/view?usp=sharing)
