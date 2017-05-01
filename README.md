@@ -28,12 +28,12 @@ The appendix also contains a description of all 8 exercises.
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557959/810d45c8-2d25-11e7-99dc-b8da01ef6fd0.PNG)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557960/8129182a-2d25-11e7-85fe-694ccf81a27c.PNG)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557963/813b6bba-2d25-11e7-8bae-0edde8f5aaba.PNG)
+![screenshot 04](https://cloud.githubusercontent.com/assets/19373990/25588266/4765b17a-2eb0-11e7-83d8-1f5ea6d92bbb.PNG)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557964/813ddd82-2d25-11e7-9790-5cc3324bfa9e.PNG)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557962/813b6a52-2d25-11e7-9b58-f1bb575456a5.PNG)
 ![screenshot 11](https://cloud.githubusercontent.com/assets/19373990/25588159/df879118-2eaf-11e7-8faa-729ad6bd38d8.png)
 ![screenshot 12](https://cloud.githubusercontent.com/assets/19373990/25588160/df88da32-2eaf-11e7-9c33-df3693820f5f.png)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557966/81466e20-2d25-11e7-95fb-f5cc26b44683.png)
-![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557967/815398e8-2d25-11e7-96fd-432e31c77f49.png)
 ![screenshot](https://cloud.githubusercontent.com/assets/19373990/25557961/813b1e3a-2d25-11e7-93b2-bc7dafab81cf.PNG)
 
 ![ic_launcher](https://cloud.githubusercontent.com/assets/19373990/25557776/04bf84da-2d21-11e7-82fe-7726b683af44.png)
