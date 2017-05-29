@@ -1,22 +1,23 @@
 # Project Description
-The project is made as an educational one.
+The project is created as an educational one.
 
 App language: Russian.
 
-The app save the number of pull-ups by the date and type of exercise (there are 8 of them).
+The app is made for people who are fond of sports such as pulling-up. It saves the number of pull-ups by date and exercise type (there are 8 types of exercises).
 
 ### The result can be show:
-+ All result for all time
-+ All days of training and the result for them
-+ Training by type of exercise
++ All result
++ A result for each day of training
++ Results for each kind of exercise
 
-All results can be sent in text form.
+Results can be extracted into a text file and sent to a necessary email address.
 
-Based on the results of the training for a particular type of exercise, you can build a chart and track the change in the result.
+Based on the results of the training for a particular type of exercise, you can build a chart and stake out the change in the result.
 
 The appendix also contains a description of all 8 exercises.
 
-### Basic skills that were used in the project
+
+### Basic skills for the project creation
 + Toolbar Menu Android
 + Libraries were used:
   + [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
