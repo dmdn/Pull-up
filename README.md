@@ -17,7 +17,7 @@ Based on the results of the training for a particular type of exercise, you can 
 The appendix also contains a description of all 8 exercises.
 
 
-### Basic skills for the project creation
+### Basic skills that were used for the project creation
 + Toolbar Menu Android
 + Libraries were used:
   + [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
